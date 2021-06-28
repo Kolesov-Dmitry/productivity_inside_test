@@ -1,0 +1,9 @@
+.vscode
+.idea
+.git
+vendor
+
+*.exe
+
+Dockerfile
+.gitignore
